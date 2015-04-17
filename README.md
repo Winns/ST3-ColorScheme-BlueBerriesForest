@@ -1,8 +1,8 @@
-# ST3-Theme-BlueBerriesForest
+# BlueBerriesForest
 Dark Theme for JS/CSS/HTML coding.
 
 
-## Preview
+### Preview
 
 JS
 ![preview js][preview_js]
@@ -13,7 +13,7 @@ CSS
 HTML
 ![preview html][preview_html]
 
-## Install
+### Install
 
 The easiest way to install is through [Package Control][pc_url].
 
