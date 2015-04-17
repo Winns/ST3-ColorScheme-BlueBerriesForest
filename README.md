@@ -17,9 +17,9 @@ HTML
 
 The easiest way to install is through [Package Control][pc_url].
 
-### [Package Control][wbond]
+### [Package Control][pc_url]
 
-1. [Install Sublime Package Control][wbond 2]
+1. [Install Sublime Package Control][pc_url]
 2. From inside Sublime Text, open Package Control's Command Pallet: <kbd>CTRL</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> (Windows, Linux) or <kbd>CMD</kbd> <kbd>SHIFT</kbd> <kbd>P</kbd> on Mac.
 3. Type `install package` and hit Return. A list of available packages will be displayed.
 4. Type `BlueBerriesForest` and hit Return. The package will be downloaded to the appropriate directory.
