@@ -3,7 +3,7 @@
 	$second:		#92d2FF
 
 	$foreground:	#E0E2E4
-	$background: 	#293134
+	$background: 	#222A2D
 	$string: 		#EC7600
 	$number: 		#FFCD22
 	$comment:		#616E76
@@ -12,7 +12,7 @@
 	$special:		#6F78C7
 
 	$cssID:			#93C763
-	$cssClass:		#92d2FF
+	$cssClass:		#D7C673
 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -26,7 +26,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#293134</string>
+				<string>#222A2D</string>
 
 				<key>foreground</key>
 				<string>#E0E2E4</string>
@@ -40,10 +40,10 @@
 
 				<!-- Current line number background -->
 				<key>lineHighlight</key>
-				<string>#555</string>
+				<string>#40484B</string>
 
 				<key>selection</key>
-				<string>#555</string>
+				<string>#40484B</string>
 
 				<key>inactiveSelection</key>
 				<string>#444</string>
@@ -53,10 +53,10 @@
 				<string>#6F78C7</string>
 
 				<key>gutter</key>
-				<string>#333</string>
+				<string>#293134</string>
 
 				<key>gutterForeground</key>
-				<string>#909090</string>
+				<string>#9f9f9f</string>
 
 				<!-- | lines -->
 				<key>guide</key>
@@ -458,7 +458,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#92d2FF</string>
+				<string>#D7C673</string>
 			</dict>
 		</dict>
 
@@ -471,7 +471,9 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#92d2FF</string>
+				<string>#fff</string>
+				<key>fontStyle</key>
+				<string>bold</string>
 			</dict>
 		</dict>
 
