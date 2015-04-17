@@ -15,7 +15,7 @@ HTML
 
 ## Install
 
-The easiest way to install is through [Package Control][wbond].
+The easiest way to install is through [Package Control][pc_url].
 
 ### [Package Control][wbond]
 
@@ -31,3 +31,4 @@ Download or clone this repository to a directory `ST3-ColorScheme-BlueBerriesFor
 [preview_js]: http://i.imgur.com/FWNtTX3.png
 [preview_css]: http://i.imgur.com/9KCYFeW.png
 [preview_html]: http://i.imgur.com/AVX7zTI.png
+[pc_url]: https://packagecontrol.io/installation
